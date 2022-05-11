@@ -50,3 +50,6 @@ analysis/allocation-model.docx
 
 # Rmd para armar README
 README.Rmd
+
+# data
+analysis/data/*
