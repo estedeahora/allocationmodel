@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
+
+# Template, Draft and Raw folders
+analysis/_draft
+analysis/_raw
+analysis/_templates
